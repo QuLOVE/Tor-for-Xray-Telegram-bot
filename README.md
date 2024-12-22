@@ -2,7 +2,7 @@
 
 # Overview
 
-## This bot provides control over Tor for a Vless proxy on a VDS. You can manage Tor exit nodes, rotate identities, and enforce restrictions via Telegram commands. Dont forget to set up correct inbound through proxy on VDS.
+## This bot provides control over Tor for a Vless proxy on a VDS. You can manage Tor exit nodes, rotate identities, and enforce restrictions via Telegram commands. Dont forget to set up correct inbound through Tor proxy in Xray/sing-box config.
 
 # Running
 ## Run using pyenv and screen
